@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpBrowser", "SpBrowser.csproj", "{5A1D10ED-858D-4B4C-8B09-3692858364A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A1D10ED-858D-4B4C-8B09-3692858364A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1D10ED-858D-4B4C-8B09-3692858364A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1D10ED-858D-4B4C-8B09-3692858364A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1D10ED-858D-4B4C-8B09-3692858364A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
